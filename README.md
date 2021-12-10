@@ -64,6 +64,18 @@ Happy Organizing! :)
 Press Enter to exit
 ```
 
+# Screenshots
+
+### Before
+![image](https://user-images.githubusercontent.com/47711719/145497856-c597bc89-c747-4e03-a109-63671c64b218.png)
+
+### After
+![image](https://user-images.githubusercontent.com/47711719/145497912-0f272834-d20f-42bf-808d-f5c36cd0d32a.png)
+
+### Log File
+![image](https://user-images.githubusercontent.com/47711719/145497940-ebd4a6f9-f429-4485-8f07-5371ac395019.png)
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
