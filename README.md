@@ -13,7 +13,7 @@ Python 3.8.2
 Download and run this
 ```
 📦
-[file-organizer.exe](https://github.com/ThusharaX/file-organizer/releases/download/v1.0.0/file-organizer.ThusharaX.exe) 6.38 MB
+[file-organizer.exe](https://github.com/ThusharaX/file-organizer/releases/download/v1.0.0/file_organizer.exe) 6.39 MB
 
 ### or
 
