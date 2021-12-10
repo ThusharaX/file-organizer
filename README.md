@@ -2,6 +2,18 @@
 
 This program can be used to organize files in a directory by their file extension.
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ThusharaX.file-organizer)
+![GitHub forks](https://img.shields.io/github/forks/ThusharaX/file-organizer?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/ThusharaX/file-organizer)
+![GitHub Repo stars](https://img.shields.io/github/stars/ThusharaX/file-organizer?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/ThusharaX/file-organizer)
+![GitHub watchers](https://img.shields.io/github/watchers/ThusharaX/file-organizer?style=social)
+![GitHub issues](https://img.shields.io/github/issues/ThusharaX/file-organizer)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ThusharaX/file-organizer)
+![GitHub](https://img.shields.io/github/license/ThusharaX/file-organizer)
+
+![file-organizer](https://socialify.git.ci/ThusharaX/file-organizer/image?description=1&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
+
 ## Requirements
 
 Python 3.8.2
