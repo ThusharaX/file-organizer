@@ -1,6 +1,6 @@
 # File Organizer
 
-This program can be used to organize files in a directory by their file extension.
+This program can be used to organize files in a directory by their file extension. And move duplicate files to a duplicates folder.
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ThusharaX.file-organizer)
 ![GitHub forks](https://img.shields.io/github/forks/ThusharaX/file-organizer?style=social)
